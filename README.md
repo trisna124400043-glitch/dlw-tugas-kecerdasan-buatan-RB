@@ -37,7 +37,7 @@ Perangkat yang kami pakai: [contoh: laptop CPU Intel i5 / Google Colab T4], tota
 tugas_ablasi.ipynb      notebook eksperimen (di-commit beserta output)
 data/                   Berisi dataset trafik seluler Milano
 hasil/                  Berisi grafik hasil eksperimen ablasi dan grafik kovergensi
-laporan-latex/ atau laporan-typst/   File sumber LaTeX untuk penyusunan laporan format IEEE
+laporan-latex/          File sumber LaTeX untuk penyusunan laporan format IEEE
 starter/                Skrip utama pelatihan dan evaluasi model
 ```
 
