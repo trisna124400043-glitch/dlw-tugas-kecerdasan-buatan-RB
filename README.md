@@ -8,13 +8,13 @@ Tugas Workshop Deep Learning — Teknik Telekomunikasi ITERA.
 
 | Peran | Nama | NIM |
 |---|---|---|
-| Ketua | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
-| Anggota | [Nama Lengkap] | [NIM] |
+| Ketua | [Angelina Gultom] | [124400072] |
+| Anggota | [Trisna Anggraeni Gea] | [124400043] |
+| Anggota | [Amelda Wulandari] | [124400090] |
 
-- **Kelas:** [RA / RB]
-- **Lokasi kelompok:** [kode] — [nama lokasi] (digit terakhir NIM terkecil)
-- **Laporan:** [`laporan-latex/main.pdf` atau `laporan-typst/main.pdf`]
+- **Kelas:** [RB]
+- **Lokasi kelompok:** [0] — [Stazione Centrale] (0)
+- **Laporan:** [`laporan-latex/main.pdf`]
 
 ## Cara Menjalankan
 
@@ -29,7 +29,7 @@ Perangkat yang kami pakai: [contoh: laptop CPU Intel i5 / Google Colab T4], tota
 
 ## Ringkasan Hasil
 
-[2–4 kalimat temuan utama, beserta angka test MAE terbaik per model.]
+[ Model GRU dan RNN memberikan performa test MAE terbaik pada panjang jendela waktu $W = 48$ jam, dengan kestabilan konvergensi yang lebih baik dibandingkan ANN.]
 
 ## Struktur
 
