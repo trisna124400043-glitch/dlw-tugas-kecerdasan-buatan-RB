@@ -25,8 +25,7 @@ uv run jupyter lab
 
 Buka `tugas_ablasi.ipynb`, isi `LOKASI_KELOMPOK`, lalu jalankan semua sel. Semua run tercatat di `hasil/ablasi.csv`.
 
-Perangkat yang kami pakai: [contoh: laptop CPU Intel i5 / Google Colab T4], total waktu training: [x] menit.
-
+Perangkat yang kami pakai: ASUS Vivobook Go E1404FA (AMD Ryzen 3 7320U) dan Axioo Hype 5 AMD, Total waktu training rata-rata: 15 menit.
 ## Ringkasan Hasil
 
 [ Model GRU dan RNN memberikan performa test MAE terbaik pada panjang jendela waktu $W = 48$ jam, dengan kestabilan konvergensi yang lebih baik dibandingkan ANN.]
